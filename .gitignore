@@ -1,0 +1,6 @@
+*.pyc
+.venv
+.vscode
+dist
+test.py
+setup.py
